@@ -1,5 +1,5 @@
 #                                                          Hi👋 I'm GOWTHAM K
-🔭 I’m currently working on GuardedGossips<br>🤖 check out[![My Resume](https://drive.google.com/file/d/1p7PiYTM6UWJf_U_IduV0UAae-8Nydp9C/view?usp=sharing? <br>🖥️ I’m currently learning Kotlin and App development<br>💬 Ask me about Programming,App devlopment and Cyber security<br> Reach me out at kgowtham020@gmail.com
+🔭 I’m currently working on GuardedGossips<br>🤖 check out My Resume <br>🖥️ I’m currently learning Kotlin and App development<br>💬 Ask me about Programming,App devlopment and Cyber security<br> Reach me out at kgowtham020@gmail.com
 
 
 ## 🌐 Socials:
