@@ -15,4 +15,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kgowtham020&icon=0&color=1)](https://visitcount.itsvg.in)
 
+---
+[![](https://visitcount.itsvg.in/api?id=kgowtham020&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=kgowtham020&label=Profile%20Views&color=1&icon=0&pretty=false" />
+</a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
