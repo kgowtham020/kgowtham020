@@ -26,6 +26,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kgowtham020&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kgowtham020&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kgowtham020&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <!-- Profile visit counter -->
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=kgowtham020&label=Profile%20Views&color=1&icon=0&pretty=false" />
