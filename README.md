@@ -1,7 +1,7 @@
 # Hi👋 I'm GOWTHAM K
 
 🔭 I’m currently working on CyberShieldX  
-🤖 Check out [My Resume](https://drive.google.com/file/d/1p7PiYTM6UWJf_U_IduV0UAae-8Nydp9C/view?usp=drive_link)  
+🤖 Check out [My Resume](https://drive.google.com/file/d/1p7PiYTM6UWJf_U_IduV0UAae-8Nydp9C/view?usp=driv_link)  
 🖥️ I’m currently learning Kotlin and App development  
 💬 Ask me about Programming, App development, and Cybersecurity  
 📫 Reach me at kgowtham020@gmail.com
