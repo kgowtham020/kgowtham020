@@ -30,8 +30,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kgowtham020&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Profile visit counter -->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=kgowtham020&label=Profile%20Views&color=1&icon=0&pretty=false" />
-</a>
+![Profile Views](https://shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=views&url=https://visitcount.itsvg.in/api?id=kgowtham020)
+
 
